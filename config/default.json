@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "jwtSecret": "chagin",
+    "mongoUri": "mongodb+srv://test:test@cluster0.dsiyk.mongodb.net/thumbProject?retryWrites=true&w=majority",
+    "baseUrl": "http://localhost:5000"
+}

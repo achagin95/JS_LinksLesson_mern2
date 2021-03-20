@@ -1,0 +1,22 @@
+@import "~materialize-css/dist/css/materialize.min.css";
+
+.mr10 {
+    margin-right: 10px;
+}
+
+#toast-container {
+    top: 5%;
+    right: 7%;
+    bottom: auto !important;
+    left: auto !important;
+  }
+
+.pd2r {
+    padding-top: 2rem;
+}
+
+.loaderPP {
+    display: flex;
+    justify-content: center;
+    padding-top: 2rem;
+}
